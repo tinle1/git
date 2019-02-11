@@ -1,0 +1,23 @@
+step 1: login github
+
+step 2 : Create new Repositories
+
+step 3: tai thu muc muon create repositories thuc hien cac command:
+
+  command 1:  git init
+  command 2:  git remote add origin https://github.com/tinle1/git.git 
+
+
+step 4: git add .
+
+add tat ca cac thu muc trong duong dan hien tai
+
+
+step 5: git status check trang thai cac file trong duong dan
+
+step 6: git commit -m 'comment'
+
+step 7: git push --set-upstream origin master
+
+
+
