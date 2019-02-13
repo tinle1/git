@@ -2,11 +2,18 @@ step 1: login github
 
 step 2 : Create new Repositories
 
+You can creat new repo by command:
+
+	curl -u '$your_github_username' https://api.github.com/user/repos -d "{\"name\":\"$new_repo_name\"}"
+
 step 3: tai thu muc muon create repositories thuc hien cac command:
 
   command 1:  git init
   command 2:  git remote add origin https://github.com/tinle1/git.git 
 
+Change url by command:
+
+	  git remote set-url origin https://new-url
 
 step 4: git add .
 

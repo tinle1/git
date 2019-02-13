@@ -1,0 +1,8 @@
+Kiem tra cac file dang co trong thu muc
+Command: 
+git init
+
+ls -a
+
+
+
